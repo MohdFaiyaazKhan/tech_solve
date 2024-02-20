@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* width: 100%; */
+}
+
+.nav{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+main{
+    background-color: #041334;
+}
+
+.container{
+    padding-top: 5vh;
+}
+
+table{
+    color: aliceblue;
+}
+
+th{
+  text-align: center;
+}
+
+td{
+  padding: 2vh 10vw;
+}
+               
+.btn-grad {
+    background-image: linear-gradient(to left, #1A2980 0%, #26D0CE  51%, #1A2980  100%);
+    margin: 10px;
+    margin-left: 44%;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    /* box-shadow: 0 0 20px #eee; */
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 5vh;
+  }
+
+  .btn-grad:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .page2{
+    background-color: #08122a;
+    padding: 2vh 15vw 2vh 15vw;
+    display: flex;
+  }
+
+  .p2{
+    height: 100%;
+    width: 100%;
+  }
+  .content{
+    color: aliceblue;
+  }
+
+
+
+  .group{
+    display: flex;
+    margin-bottom: 5%;
+    gap: 1em;
+  }
+
+  .gi{
+    height: 10%;
+    width: 10%;
+  }
+
+  .page3{
+    background-color: #0a1634;
+    padding: 2vh 15vw 2vh 15vw;
+    display: flex;
+  }
+
+  .tick{
+    height: 5%;
+    width: 5%;
+    border-radius: 50%;
+  }
+
+  .reason{
+    color: aliceblue;
+    width: 40vw;
+  }
+
+  .portfolio{
+    background-image: url(./assets/glass.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 25vw;
+    margin-left: 20%;
+    
+  }
+
+  .iconp{
+    height: 15%;
+    width: 15%;
+    border-radius: 50%;
+  }
+
+  .pgroup{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+  }
+
+  .page4{
+    background-color: #08122a;
+    padding: 8vh 15vw 2vh 15vw;
+    display: flex;
+  }
+
+  .lfooter{
+    width: 40vw;
+  }
+
+  
+  .rfooter{
+    display: flex;
+  }
+  
+  .company, .support, .socials{
+    color: aliceblue;
+    margin-left: 10vw;
+    width: 5vw;
+    text-decoration: none;
+  }
+
+  .cf{
+    color: aliceblue;
+  }
+
+  .copyright{
+    color: aliceblue;
+    text-align: center;
+    background-color: #0d1c43;
+  }
+

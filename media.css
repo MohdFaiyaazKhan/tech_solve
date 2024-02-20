@@ -1,0 +1,635 @@
+
+
+@media (max-width: 1200px) and (min-width: 1101px) {
+
+  .logo{
+    width: 100%;
+    margin-left: 15%;
+    align-items: center;
+  }
+  
+  .cotainer{
+    width: 100%;
+  }
+  
+  td{
+    padding: 2vh 13vw;
+  }
+  
+  
+  .btn-grad {
+    
+    margin-left: 40%;
+  }
+  
+    .page2{
+      display: flex;
+    }
+
+    .p2{
+      width: 50%;
+      height: 50%;
+    }
+  
+    .group{
+      display: flex;
+      margin-bottom: 5%;
+      gap: 1em;
+    }
+  
+    .gi{
+      height: 15%;
+      width: 15%;
+    }
+  
+    .page3{
+      background-color: #0a1634;
+      padding: 2vh 15vw 2vh 15vw;
+      display: flex;
+    }
+  
+    h5{
+      width: 100%;
+    }
+    .reasonh{
+      font-size: 26px;
+      margin-top: 10%;
+      width: 100%;
+    }
+  
+    .detailp{
+      width: 100%;
+    }
+    .tick{
+      height: 15%;
+      width: 15%;
+      border-radius: 50%;
+    }
+  
+    .reason{
+      color: aliceblue;
+      width: 40vw;
+    }
+  
+    .portfolio{
+      background-image: none;    
+    }
+  
+    .iconp{
+      height: 40%;
+      width: 40%;
+      border-radius: 50%;
+    }
+  
+    .pgroup{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 5%;
+    }
+  
+    .page4{
+      padding: 8vh 5vw 2vh 5vw;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .lfooter{
+      width: 100%;
+    }
+    
+    .cf{
+      color: aliceblue;
+      width: 100%;
+    }
+    
+    .rfooter{
+      display: flex;
+      width: 100%;
+    }
+    
+    .company, .support, .socials{
+      margin-top: 10vw;
+      width: 15vw;
+    }
+  
+    .copyright{
+      color: aliceblue;
+      text-align: center;
+      background-color: #0d1c43;
+    }
+  
+  
+  }
+  
+
+
+  
+@media (max-width: 1100px) and (min-width:901px) {
+
+  .logo{
+    width: 100%;
+    margin-left: 15%;
+    align-items: center;
+  }
+  
+  .cotainer{
+    width: 100%;
+  }
+  
+  td{
+    padding: 2vh 10vw;
+  }
+  
+  
+  .btn-grad {
+    
+    margin-left: 40%;
+  }
+  
+    .page2{
+      display: flex;
+      flex-direction: column;
+      background-image: url(./assets/Frame.png);
+    }
+  
+    .p2{
+      display: none;
+    }
+  
+  
+    .group{
+      display: flex;
+      margin-bottom: 5%;
+      gap: 1em;
+    }
+  
+    .gi{
+      height: 15%;
+      width: 15%;
+    }
+  
+    .page3{
+      background-color: #0a1634;
+      padding: 2vh 15vw 2vh 15vw;
+      display: flex;
+      flex-direction: column-reverse;
+    }
+  
+    h5{
+      width: 180%;
+    }
+    .reasonh{
+      font-size: 26px;
+      margin-top: 10%;
+      width: 180%;
+    }
+  
+    .detailp{
+      width: 180%;
+    }
+    .tick{
+      height: 15%;
+      width: 15%;
+      border-radius: 50%;
+    }
+  
+    .reason{
+      color: aliceblue;
+      width: 40vw;
+    }
+  
+    .portfolio{
+      background-image: none;    
+    }
+  
+    .iconp{
+      height: 40%;
+      width: 40%;
+      border-radius: 50%;
+    }
+  
+    .pgroup{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 5%;
+    }
+  
+    .page4{
+      padding: 8vh 5vw 2vh 5vw;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .lfooter{
+      width: 100%;
+    }
+    
+    .cf{
+      color: aliceblue;
+      width: 100%;
+    }
+    
+    .rfooter{
+      display: flex;
+      
+      width: 100%;
+    }
+    
+    .company, .support, .socials{
+      margin-top: 10vw;
+      width: 20vw;
+      text-decoration: none;
+    }
+  
+    .copyright{
+      color: aliceblue;
+      text-align: center;
+      background-color: #0d1c43;
+    }
+  
+  
+  }
+  
+
+
+  
+@media (max-width: 900px) and (min-width: 601px) {
+
+  .logo{
+    width: 100%;
+    margin-left: 15%;
+    align-items: center;
+  }
+  
+  .cotainer{
+    width: 100%;
+  }
+  
+  td{
+    padding: 2vh 11vw;
+  }
+  
+  
+  .btn-grad {
+    
+    margin-left: 40%;
+  }
+  
+    .page2{
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .p2{
+      display: none;
+    }
+  
+  
+    .group{
+      display: flex;
+      margin-bottom: 5%;
+      gap: 1em;
+    }
+  
+    .gi{
+      height: 30%;
+      width: 30%;
+    }
+  
+    .page3{
+      background-color: #0a1634;
+      padding: 2vh 15vw 2vh 15vw;
+      display: flex;
+      flex-direction: column-reverse;
+    }
+  
+    h5{
+      width: 180%;
+    }
+    .reasonh{
+      font-size: 26px;
+      margin-top: 10%;
+      width: 180%;
+    }
+  
+    .detailp{
+      width: 180%;
+    }
+    .tick{
+      height: 15%;
+      width: 15%;
+      border-radius: 50%;
+    }
+  
+    .reason{
+      color: aliceblue;
+      width: 40vw;
+    }
+  
+    .portfolio{
+      background-image: none;    
+    }
+  
+    .iconp{
+      height: 40%;
+      width: 40%;
+      border-radius: 50%;
+    }
+  
+    .pgroup{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 5%;
+    }
+  
+    .page4{
+      padding: 8vh 5vw 2vh 5vw;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .lfooter{
+      width: 100%;
+    }
+    
+    .cf{
+      color: aliceblue;
+      width: 100%;
+    }
+    
+    .rfooter{
+      display: flex;
+      
+      width: 100%;
+    }
+    
+    .company, .support, .socials{
+      margin-top: 10vw;
+      width: 20vw;
+      text-decoration: none;
+    }
+  
+    .copyright{
+      color: aliceblue;
+      text-align: center;
+      background-color: #0d1c43;
+    }
+  
+  
+  }
+  
+  
+  
+@media (max-width: 600px) and (min-width: 401px) {
+
+  .logo{
+    width: 100%;
+    margin-left: 15%;
+    align-items: center;
+  }
+  
+  .cotainer{
+    width: 100%;
+  }
+  
+  td{
+    padding: 2vh 10vw;
+  }
+  
+  
+  .btn-grad {
+    
+    margin-left: 38%;
+  }
+  
+    .page2{
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .p2{
+      display: none;
+    }
+  
+  
+    .group{
+      display: flex;
+      margin-bottom: 5%;
+      gap: 1em;
+    }
+  
+    .gi{
+      height: 30%;
+      width: 30%;
+    }
+  
+    .page3{
+      background-color: #0a1634;
+      padding: 2vh 15vw 2vh 15vw;
+      display: flex;
+      flex-direction: column-reverse;
+    }
+  
+    h5{
+      width: 180%;
+    }
+    .reasonh{
+      font-size: 26px;
+      margin-top: 10%;
+      width: 180%;
+    }
+  
+    .detailp{
+      width: 180%;
+    }
+    .tick{
+      height: 15%;
+      width: 15%;
+      border-radius: 50%;
+    }
+  
+    .reason{
+      color: aliceblue;
+      width: 40vw;
+    }
+  
+    .portfolio{
+      background-image: none;    
+    }
+  
+    .iconp{
+      height: 40%;
+      width: 40%;
+      border-radius: 50%;
+    }
+  
+    .pgroup{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 5%;
+    }
+  
+    .page4{
+      padding: 8vh 5vw 2vh 5vw;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .lfooter{
+      width: 100%;
+    }
+    
+    .cf{
+      color: aliceblue;
+      width: 100%;
+    }
+    
+    .rfooter{
+      display: flex;
+      
+      width: 100%;
+    }
+    
+    .company, .support, .socials{
+      margin-top: 10vw;
+      width: 20vw;
+      text-decoration: none;
+    }
+  
+    .copyright{
+      color: aliceblue;
+      text-align: center;
+      background-color: #0d1c43;
+    }
+  
+  
+  }
+  
+  
+  
+  @media (max-width: 400px) {
+
+    .nav{
+      display: flex;
+      flex-direction: row;
+    }
+    
+    .logo{
+      width: 80%;
+      align-items: center;
+    }
+    
+    
+    td{
+      padding: 2vh 4vw;
+    }
+                
+    .btn-grad {
+      
+      margin-left: 30%;
+    }
+    
+      .page2{
+        display: flex;
+        flex-direction: column;
+      }
+    
+      .p2{
+        display: none;
+      }
+    
+    
+      .group{
+        display: flex;
+        margin-bottom: 5%;
+        gap: 1em;
+      }
+    
+      .gi{
+        height: 30%;
+        width: 30%;
+      }
+    
+      .page3{
+        background-color: #0a1634;
+        padding: 2vh 15vw 2vh 15vw;
+        display: flex;
+        flex-direction: column-reverse;
+      }
+    
+      h5{
+        width: 180%;
+      }
+      .reasonh{
+        font-size: 26px;
+        width: 180%;
+      }
+    
+      .detailp{
+        width: 180%;
+      }
+      .tick{
+        height: 15%;
+        width: 15%;
+        border-radius: 50%;
+      }
+    
+      .reason{
+        color: aliceblue;
+        width: 40vw;
+      }
+    
+      .portfolio{
+        background-image: none;    
+      }
+    
+      .iconp{
+        height: 40%;
+        width: 40%;
+        border-radius: 50%;
+      }
+    
+      .pgroup{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 5%;
+      }
+    
+      .page4{
+        padding: 8vh 5vw 2vh 5vw;
+        display: flex;
+        flex-direction: column;
+      }
+    
+      .lfooter{
+        width: 100%;
+      }
+      
+      .cf{
+        color: aliceblue;
+        width: 100%;
+      }
+      
+      .rfooter{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+      }
+      
+      .company, .support, .socials{
+        color: aliceblue;
+        margin-top: 10vw;
+        width: 5vw;
+        text-decoration: none;
+      }
+    
+      .copyright{
+        color: aliceblue;
+        text-align: center;
+        background-color: #0d1c43;
+      }
+    
+    
+    }
+    
+    
